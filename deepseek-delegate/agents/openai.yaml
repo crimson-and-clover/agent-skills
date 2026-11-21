@@ -1,0 +1,3 @@
+interface:
+  display_name: "DeepSeek Delegate"
+  short_description: "Delegate bounded research tasks to DeepSeek"
